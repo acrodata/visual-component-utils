@@ -1,0 +1,18 @@
+{
+  "name": "@acrodata/visual-component-utils",
+  "version": "0.0.0",
+  "description": "Utils for visual components",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nzbin<nzb329@163.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/acrodata/visual-component-utils.git"
+  }
+}
